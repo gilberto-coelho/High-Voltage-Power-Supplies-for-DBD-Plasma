@@ -109,17 +109,9 @@ The PTFE winding holder was fabricated in-house using a lathe. I also wound the 
 
 <br>
 
-**Secondary winding in the PTFE holder:**
+**Secondary winding in the PTFE holder, and AC transformers immersed in mineral oil in a 3D printed box:**
 
-<img width="846" height="1123" alt="pfte holder and coil" src="https://github.com/user-attachments/assets/b8c3530d-a73c-4e29-b99a-ef682e42c175" />
-
-<br>
-<br>
-
-**AC transformers immersed in mineral oil in a 3D printed box:**
-
-<img width="3024" height="3249" alt="AC trafo" src="https://github.com/user-attachments/assets/60363d55-a706-4cf9-8501-c1d86c93f23c" />
-<img width="2785" height="2902" alt="IMG_3923" src="https://github.com/user-attachments/assets/763370d7-710b-425b-900a-2f3bcc809818" />
+<img width="1920" height="719" alt="pfte holder and coil-horz" src="https://github.com/user-attachments/assets/517b2f47-e64c-4ab3-9521-97bbf83f7422" />
 
 <br>
 <br>
@@ -201,6 +193,7 @@ For the **custom-transformer AC supplies**, oscilloscope measurements were also 
 
 <img width="1733" height="965" alt="image" src="https://github.com/user-attachments/assets/498f7e7f-ef6e-4f38-b58c-08b44a3eeee3" />
 
+<br>
 <br>
 
 ## Development
