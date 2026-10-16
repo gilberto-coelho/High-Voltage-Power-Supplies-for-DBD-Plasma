@@ -250,9 +250,16 @@ This version was used in a plasma-mediated mercury vapor generation system.
 
 <br>
 
-**Flyback-based high-voltage power supply:**
+**Flyback-Based High-Voltage Power Supply Using a Transformer-Based AC-to-DC Converter:**
 
 <img width="2571" height="1096" alt="IMG_0396-horz" src="https://github.com/user-attachments/assets/ec0583c6-50d3-4a73-95cd-3d6c1998ee46" />
+
+<br>
+<br>
+
+**Flyback-Based High-Voltage Power Supply Using a Compact Switched-Mode AC-to-DC Converter:**
+
+<img width="2938" height="1248" alt="IMG_5240-horz" src="https://github.com/user-attachments/assets/4da69cb7-dff5-4269-8059-7ac72b175a87" />
 
 <br>
 <br>
