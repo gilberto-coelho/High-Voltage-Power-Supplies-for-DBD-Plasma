@@ -345,19 +345,6 @@ The supplementary materials of these articles provide extensive technical inform
 
 <br>
 
-## Skills Demonstrated
-
-- Power electronics and high-voltage power supply design
-- Custom transformer design, winding, and insulation
-- MOSFET/IGBT switching and PWM control
-- Circuit prototyping, assembly, and troubleshooting
-- Oscilloscope measurements and electrical characterization
-- Switching-frequency optimization
-- Lathe machining and fabrication of custom PTFE components
-- Laboratory instrumentation and DBD plasma integration
-
-<br>
-
 ## Safety
 
 > **Warning**
